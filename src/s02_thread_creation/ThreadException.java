@@ -1,8 +1,9 @@
+package s02_thread_creation;
 
 /**
  * Threads Creation - Part 1, Thread Capabilities & Debugging
  */
-public class Main2 {
+public class ThreadException {
 
     public static void main(String [] args) {
         Thread thread = new Thread(new Runnable() {

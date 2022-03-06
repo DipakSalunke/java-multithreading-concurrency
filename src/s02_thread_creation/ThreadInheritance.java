@@ -1,12 +1,13 @@
-
+package s02_thread_creation;
 /**
  * Threads Creation - Part 2. Thread Inheritance
+ * Guess the password
  */
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-public class Main {
+public class ThreadInheritance {
     public static final int MAX_PASSWORD = 9999;
 
     public static void main(String[] args) {
